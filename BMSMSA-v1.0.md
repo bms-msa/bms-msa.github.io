@@ -1,6 +1,6 @@
 ## Summary
 
-The Behavioural Modification System- Master Settlement Agreement (BMS-MSA) is a cooperative legal and strategic framework designed to address the widespread impact of behaviour-shaping digital technologies.
+The Behaviour Modification System- Master Settlement Agreement (BMS-MSA) is a cooperative legal and strategic framework designed to address the widespread impact of behaviour-shaping digital technologies.
 
 The BMS-MSA aims to support regulators, law schools, public-interest institutions, and responsible commercial actors in coordinating a fair and constructive response to emerging global challenges.
 
@@ -12,7 +12,7 @@ It maps the full ecosystem — from platforms and developers to advertisers, pay
 
 The BMS-MSA is intended to aid prevention of harm, adaptation, and shared accountability across the digital economy.
 
-# Behavioural Modification Master Settlement Agreement (BMSMSA)
+# Behaviour Modification Master Settlement Agreement (BMSMSA)
 **Version 1.0** – Published under Creative Commons BY-NC-SA 4.0 licence.
 
 This document is a public legal infrastructure initiative.
@@ -20,7 +20,7 @@ Contact: bms-msa@proton.me
 
 ## 1. Purpose
 
-This Agreement provides a standardised framework for resolving or preventing harms linked to behavioural modification systems (BMS). It is designed to support jurisdictional adaptation, public-interest litigation, ethical reform, and strategic settlements across sectors and borders.
+This Agreement provides a standardised framework for resolving or preventing harms linked to Behaviour modification systems (BMS). It is designed to support jurisdictional adaptation, public-interest litigation, ethical reform, and strategic settlements across sectors and borders.
 
 ## 2. Scope
 
@@ -36,13 +36,13 @@ This Agreement applies to harms arising from the use or design of systems intend
 
     Exploitative monetisation (e.g. loot boxes, dark patterns)
 
-    Involuntary surveillance and behavioural targeting
+    Involuntary surveillance and Behaviour targeting
 
     Incitement to violence, genocide, or social unrest
 
 ## 3. Acknowledgement of Harm
 
-Parties using or citing this Agreement acknowledge the occurrence of significant, avoidable harms connected to behavioural modification systems. Such use does not constitute an admission of legal liability.
+Parties using or citing this Agreement acknowledge the occurrence of significant, avoidable harms connected to Behaviour modification systems. Such use does not constitute an admission of legal liability.
 
 ## 4. Licensing Terms
 
@@ -104,7 +104,7 @@ Participation is voluntary. Absence of platform adoption does not restrict litig
 
 Responsibility for BMS-related harms is distributed across a complex, multi-actor supply chain. While no single party is solely accountable, some are better positioned to enable reform, resolve legacy harm, or adopt protective practices.
 
-Those constituents of the behavioural modification supply chain most likely to benefit from early settlement, licensing, or ethical alignment include:
+Those constituents of the Behaviour modification supply chain most likely to benefit from early settlement, licensing, or ethical alignment include:
 
     Professional service providers
     (e.g. consultants, public relations firms, ethics auditors, multi-sector advisers)
@@ -119,7 +119,7 @@ Those constituents of the behavioural modification supply chain most likely to b
     (with visibility into risk, governance, or platform regulation)
 
     Payment intermediaries
-    (enabling behavioural monetisation through app stores, wallets, or spending triggers)
+    (enabling Behaviour monetisation through app stores, wallets, or spending triggers)
 
     Academic institutions and legal clinics
     (engaged in public interest litigation, ethics research, or legal education)
@@ -131,7 +131,7 @@ Those constituents of the behavioural modification supply chain most likely to b
     (providing the underlying systems for sorting, ranking, and modifying user behaviour)
 
     Data brokers
-    (entities aggregating, refining, or trading behavioural and psychographic data)
+    (entities aggregating, refining, or trading Behaviour and psychographic data)
 
     Cloud infrastructure and hosting providers
     (data centres, scalable compute, content delivery networks)
@@ -167,7 +167,7 @@ Whistleblowers are advised to seek legal counsel before disclosure.
 
 ##  What is the BMS-MSA?
 
-The BMS-MSA (Behavioural Manipulation Supply Chain – Master Settlement Agreement) is a public, open framework designed to support legal and strategic action against entities profiting from manipulative digital technologies. It defines the full behavioural manipulation supply chain and proposes structured, replicable approaches for litigation, negotiation, compliance, and reform.
+The BMS-MSA (Behaviour Manipulation Supply Chain – Master Settlement Agreement) is a public, open framework designed to support legal and strategic action against entities profiting from manipulative digital technologies. It defines the full Behaviour manipulation supply chain and proposes structured, replicable approaches for litigation, negotiation, compliance, and reform.
 
 ## Who created the BMS-MSA?
 
