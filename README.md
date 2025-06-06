@@ -11,4 +11,6 @@ This repository hosts the **BMS-MSA**, a strategic legal and ethical framework d
 ---
 
 This project is licensed under [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
-Non-commercial users are free to adapt with attribution. Commercial use requires a licence.
+Non-commercial users are free to adapt with attribution. Commercial use — including by for-profit law firms, litigation funders, or platform operators — is expressly prohibited without a formal licence agreement.
+
+For licensing inquiries, contact [you@bms-msa.org].
